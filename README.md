@@ -1,0 +1,1 @@
+# Micro-SaaS-de-Automa-o-para-Cl-nicas-de-Est-tica
