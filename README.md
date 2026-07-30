@@ -230,8 +230,7 @@ WhatsApp --> n8n
 
 n8n --> AtualizaBanco
 
-Whatsapp--> Link de reagendamento (site)
-
+AtualizaBanco --> LinkReagendamento["Link de Reagendamento (Site)"]
 ```
 
 ---
